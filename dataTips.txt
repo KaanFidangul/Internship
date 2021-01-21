@@ -1,0 +1,16 @@
+
+Days
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+600
+400
+350
+400
+800
+900
+500
